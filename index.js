@@ -51,5 +51,5 @@ Object.keys(unitlessProperties).forEach(function(property) {
 })
 
 module.exports = function(property) {
-  return unitlessProperty[property]
+  return unitlessProperties[property]
 }

@@ -1,6 +1,6 @@
 {
   "name": "unitless-css-property",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper to check for unitless CSS property names",
   "main": "index.js",
   "scripts": {
