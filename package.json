@@ -1,0 +1,12 @@
+{
+  "name": "unitless-css-property",
+  "version": "1.0.0",
+  "description": "Helper to check for unitless CSS property names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/rofrischmann/unitless-css-property/",
+  "author": "Robin Frischmann",
+  "license": "MIT"
+}
