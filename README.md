@@ -4,7 +4,8 @@
 <a href="https://codeclimate.com/github/rofrischmann/unitless-css-property/coverage"><img alt="Test Coverage" src="https://codeclimate.com/github/rofrischmann/unitless-css-property/badges/coverage.svg"></a>
 <a href="https://codeclimate.com/github/rofrischmann/unitless-css-property"><img alt="Code Climate" src="https://codeclimate.com/github/rofrischmann/unitless-css-property/badges/gpa.svg"></a>
 
-Provides a simple helper to check for unitless CSS property names. It also checks for prefixed and hyphenated property names.
+Provides a simple helper to check for unitless CSS property names. <br>
+It also checks for prefixed and hyphenated property names.
 
 ## Installation
 ```sh
