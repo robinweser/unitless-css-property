@@ -10,7 +10,7 @@
   "author": "Robin Frischmann",
   "license": "MIT",
   "dependencies": {
-    "hyphenate-style-name": "^1.0.1"
+    "hyphenate-style-name": "1.0.2"
   },
   "devDependencies": {
     "chai": "^3.5.0",
